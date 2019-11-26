@@ -1,5 +1,5 @@
 # News
-Sample app to demonstrate Pagin Library in Android
+Sample app to demonstrate Paging Library in Android.
 
 get the API key from newsapi.org.
 
